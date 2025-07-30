@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6e6e278-c382-4b2a-8a2d-bae899e2e2c5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../ecom-catalog-react/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ecom-catalog-react/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ecom-catalog-react/eslint.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ecom-catalog-react/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ecom-catalog-react/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ecom-catalog-react/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ecom-catalog-react/public/vite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ecom-catalog-react/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ecom-catalog-react/src/App.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ecom-catalog-react/src/CategoryFilter.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ecom-catalog-react/src/ProductList.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ecom-catalog-react/src/assets/react.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ecom-catalog-react/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ecom-catalog-react/src/main.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ecom-catalog-react/vercel.json/vercel.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ecom-catalog-react/vite.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ecom/productcatalog/ProductcatalogApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ecom/productcatalog/config/DataSeeder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ecom/productcatalog/controller/CategoryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ecom/productcatalog/controller/ProductController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ecom/productcatalog/model/Category.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ecom/productcatalog/model/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ecom/productcatalog/repository/CategoryRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ecom/productcatalog/repository/ProductRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ecom/productcatalog/service/CategoryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ecom/productcatalog/service/ProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/ecom/productcatalog/ProductcatalogApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="30E0wDLqJe2lkf0pvUnvj3kTj8J" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ProductcatalogApplication.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6e6e278-c382-4b2a-8a2d-bae899e2e2c5" name="Changes" comment="" />
+      <created>1753177661544</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753177661544</updated>
+    </task>
+    <servers />
+  </component>
+</project>
